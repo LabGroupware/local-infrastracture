@@ -54,6 +54,6 @@ terraform -chdir=tf apply
 ### Kind Cluster Delete
 
 ``` sh
-terraform -chdir=tf destroy
+terraform -chdir=tf destroy --auto-approve
 kind delete cluster
 ```
