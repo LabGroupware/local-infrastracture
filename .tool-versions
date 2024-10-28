@@ -1,0 +1,6 @@
+terraform 1.9.7
+kind 0.24.0
+kubectl 1.31.1
+istioctl 1.23.2
+helm 3.16.2
+yq 4.44.3
